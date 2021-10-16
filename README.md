@@ -1,5 +1,5 @@
 # MDS-vs-TSNE
-In this project, I used the unspervised machine learning techniques of Principal Component Analysis, Multi-dimensional Scaling, and t-SNE methods. I found that both PCA and MDS could identify the digits clusters but cannot separate them well as tSNE does. 
+In this project, I applied the unspervised machine learning techniques of Principal Component Analysis, Multi-dimensional Scaling, and t-SNE methods using the Handwritten Digits dataset from UCI Machine Learning Repository. I found that both PCA and MDS could identify the digits clusters but cannot separate them well as tSNE does. 
 
 ![image](https://user-images.githubusercontent.com/52440384/137576537-31be346f-24ca-4e6b-a3cb-a01082487b60.png)
 
